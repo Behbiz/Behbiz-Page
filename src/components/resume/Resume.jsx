@@ -27,6 +27,26 @@ const Resume = () => {
 
             <ul>
               <li>
+                <span>{t("educationYearSix")}</span>
+                <strong>{t("educationTitleSix")}</strong>
+                <p>{t("educationTextSix")}</p>
+              </li>
+
+              <li>
+                <span>{t("educationYearfive")}</span>
+                <strong>{t("educationTitlefive")}</strong>
+                <p>{t("educationTextFive")}</p>
+              </li>
+
+              <li>
+                <span>{t("educationYearFour")}</span>
+                <strong>{t("educationTitleFour")}</strong>
+                <p>{t("educationTextFour")}</p>
+              </li>
+            </ul>
+
+            <ul>
+              <li>
                 <span>{t("educationYearTwo")}</span>
                 <strong>{t("educationTitleTwo")}</strong>
                 <p>{t("educationTextTwo")}</p>
@@ -37,7 +57,9 @@ const Resume = () => {
                 <strong>{t("educationTitle")}</strong>
                 <p>{t("educationText")}</p>
               </li>
+
             </ul>
+            
           </section>
 
           <section className={`languages ${styles.languages}`}>
