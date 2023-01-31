@@ -23,13 +23,42 @@ export const TRANSLATIONS_BR = {
 
   resumeTwo: "Currículo",
   education: "Educação",
-  educationYear: "",
-  educationTitle: "Educação universitária",
-  educationText: "Universidade XXXXXXXXXXXXXXXX",
-  educationYearTwo: "",
-  educationTitleTwo: "",
-  educationTextTwo: "",
+
+  educationYear: "2004 - 2009",
+  educationTitle: "Bacharelado - Curso de Direito",
+  educationText: "Unijorge Universidade",
   
+  educationYearOne: "2009 - 2011",
+  educationTitleOne: "Pós-Graduação em Direito Público e Gestão Municipal",
+  educationTextOne: "Fundação Cesar Montes",
+  
+  educationYearTwo: "2015",
+  educationTitleTwo: "Medalha Militar - 'Amigo da Marinha'",
+  educationTextTwo: "Ministério da Defesa - Marinha Brasileira",
+  
+  educationYearThree: "2021",
+  educationTitleThree: "Apresentação do artigo científico 'Panóptico Digital - o uso das novas tecnologias no sistema prisional brasileiro'",
+  educationTextThree: "Universidade de Barcelona",
+  
+  educationYearFour: "2022",
+  educationTitleFour: "Publicação do artigo científico 'Panóptico Digital - o uso das novas tecnologias no sistema prisional brasileiro'",
+  educationTextFour: "CONSINTER - Revista Científica Internacional de Direito",
+  
+  educationYearFive: "2022",
+  educationTitleFive: "Certificado de Profissionalidade em Criação e Publicação de Páginas Web",
+  educationTextFive: "The Corner - Centro de Estudos",
+
+  educationYearSix: " 2023 ",
+  educationTitleSix: " Bootcamp Front-End",
+  educationTextSix: "KeepCoding - Programming school",
+
+  educationYearSeven: " 2023",
+  educationTitleSeven: " Bootcamp Full-Stack",
+  educationTextSeven: "Factoria F5",
+  
+
+
+
   experience: "Experiência",
   experienceYear: "",
   experienceTitle: "Design de páginas web",

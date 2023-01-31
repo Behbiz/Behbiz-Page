@@ -45,15 +45,42 @@ toastErr: "❌Error al enviar",
 
 resumeTwo: "Currículo",
 education: "Educación",
-educationYear: "1396 - 1399",
-educationTitle: "Estudios universitarios",
-educationText: "Universidad de XXXX, Licenciatura en XXXXXXX",
-educationYearTwo: "1393 - 1396",
-educationTitleTwo: "Bachillerato en Derecho",
-educationTextTwo: "XXXXXX",
+educationYear: "2004 - 2009",
+educationTitle: "Diploma de nivel superior - Curso de Derecho",
+educationText: "Universidad Unijorge",
+
+educationYearOne: "2009 - 2011",
+educationTitleOne: "Posgrado en Derecho Público y Gestión Municipal",
+educationTextOne: "Fundación Cesar Montes",
+
+educationYearTwo: "2015",
+educationTitleTwo: "Medalla Militar - 'Amigo de la Armada'",
+educationTextTwo: "Ministerio de Defensa - Armada Brasileña",
+
+educationYearThree: "2021",
+educationTitleThree: "Presentación del artículo científico 'Panóptico Digital - el uso de las nuevas tecnologías en el sistema prisional brasileño'",
+educationTextThree: "Universidad de Barcelona",
+
+educationYearFour: "2022",
+educationTitleFour: "Publicación del artículo científico 'Panóptico Digital - el uso de las nuevas tecnologías en el sistema prisional brasileño'",
+educationTextFour: "CONSINTER - Revista Científica Internacional de Derecho",
+
+educationYearFive: "2022",
+educationTitleFive: "Certificado de Profesionalidad en Creación y Publicación de Páginas Web",
+educationTextFive: "El Rincón - Centro de Estudios",
+
+educationYearSix: " 2023 ",
+educationTitleSix: " Bootcamp Front-End",
+educationTextSix: "KeepCoding - Programming school",
+
+educationYearSeven: " 2023",
+educationTitleSeven: " Bootcamp Full-Stack",
+educationTextSeven: "Factoria F5",
+
 
 experience: "Experiencia",
 experienceYear: "XXXX - XXXX",
+
 experienceTitle: "Diseño de páginas web",
 experienceText: "En el XXX en el Instituto XXXXXXXX y decidí aprender sobre ello",
 experienceYearTwo: "XXX",

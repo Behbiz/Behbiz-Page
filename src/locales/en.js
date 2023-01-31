@@ -44,14 +44,47 @@ export const TRANSLATIONS_EN = {
   toastSucc: "Message sent successfully 👍",
   toastErr: "❌Error sending",
 
-  resumeTwo: "Currículo",
-  education: "Educação",
-  educationYear: "- ",
-  educationTitle: "Educação universitária",
-  educationText: "Universidade XXXXXX",
-  educationYearTwo: " - ",
-  educationTitleTwo: "",
-  educationTextTwo: "",
+  resumeTwo: "Resume",
+  education: "Education",
+
+  educationYear: "2004 -2009 ",
+  educationTitle: "Higher level diploma - Law Course",
+  educationText: "Unijorge University",
+
+  educationYearOne: "2009 -2011 ",
+  educationTitleOne: "Post Graduated in Public Law and Municipal Management",
+  educationTextOne: "Cesar Montes Foundation",
+
+  educationYearTwo: "2015",
+  educationTitleTwo: "Military Medal - 'Friend of the Navy'",
+  educationTextTwo: "Ministry of Defense - Brazilian Navy",
+
+  educationYearThree: "2021",
+  educationTitleThree: "Presentation of the scientific article 'Digital Panopticon - the use of new technologies in the Brazilian prison system'",
+  educationTextThree: "University of Barcelona",
+
+  educationYearFour: " 2022 ",
+  educationTitleFour: " Publication of the scientific article  'Digital Panopticon - the use of new technologies in the Brazilian prison system'",
+  educationTextFour: "CONSINTER - International Legal Scientific Journal",
+
+  educationYearFive: " 2022",
+  educationTitleFive: " Certificate of Professionality in Creating and Publishing Web Pages",
+  educationTextFive: "The Corner - Study Center",
+
+  educationYearSix: " 2023 ",
+  educationTitleSix: " Bootcamp Front-End",
+  educationTextSix: "KeepCoding - Programming school",
+
+  educationYearSeven: " 2023",
+  educationTitleSeven: " Bootcamp Full-Stack",
+  educationTextSeven: "Factoria F5",
+  
+
+
+
+
+
+
   
   experience: "Experiência",
   experienceYear: " - ",

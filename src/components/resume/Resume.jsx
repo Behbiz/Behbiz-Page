@@ -27,14 +27,20 @@ const Resume = () => {
 
             <ul>
               <li>
+                <span>{t("educationYearSeven")}</span>
+                <strong>{t("educationTitleSeven")}</strong>
+                <p>{t("educationTextSeven")}</p>
+              </li>
+
+              <li>
                 <span>{t("educationYearSix")}</span>
                 <strong>{t("educationTitleSix")}</strong>
                 <p>{t("educationTextSix")}</p>
               </li>
 
               <li>
-                <span>{t("educationYearfive")}</span>
-                <strong>{t("educationTitlefive")}</strong>
+                <span>{t("educationYearFive")}</span>
+                <strong>{t("educationTitleFive")}</strong>
                 <p>{t("educationTextFive")}</p>
               </li>
 
@@ -42,6 +48,12 @@ const Resume = () => {
                 <span>{t("educationYearFour")}</span>
                 <strong>{t("educationTitleFour")}</strong>
                 <p>{t("educationTextFour")}</p>
+              </li>
+
+              <li>
+                <span>{t("educationYearThree")}</span>
+                <strong>{t("educationTitleThree")}</strong>
+                <p>{t("educationTextThree")}</p>
               </li>
             </ul>
 
@@ -51,6 +63,13 @@ const Resume = () => {
                 <strong>{t("educationTitleTwo")}</strong>
                 <p>{t("educationTextTwo")}</p>
               </li>
+
+              <li>
+                <span>{t("educationYearOne")}</span>
+                <strong>{t("educationTitleOne")}</strong>
+                <p>{t("educationTextOne")}</p>
+              </li>
+
 
               <li>
                 <span>{t("educationYear")}</span>
