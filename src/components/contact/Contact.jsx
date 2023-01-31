@@ -32,13 +32,13 @@ const Contact = () => {
             <div>
               <BsGeoAlt />
               <span>{t("findMe")}</span>
-              <p>{t("teharnIran")}</p>
+              <p>{t("Badalona/BCN")}</p>
             </div>
 
             <div>
               <BsEnvelope />
               <span>{t("mailMe")}</span>
-              <p>fatemeghafari77[@]gmail.com</p>
+              <p>isabelcastrobcn[@]gmail.com</p>
             </div>
 
             <div>

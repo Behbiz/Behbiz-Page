@@ -20,7 +20,7 @@ export const TRANSLATIONS_BR = {
   portugués: "Português",
   english: "Inglês",
   spanish: "Espanhol",
-  
+
   resumeTwo: "Currículo",
   education: "Educação",
   educationYear: "1396 - 1399",
@@ -40,6 +40,29 @@ export const TRANSLATIONS_BR = {
   experienceYearThree: "1401",
   experienceTitleThree: "UI",
   experienceTextThree: "Recentemente comecei a aprender nesta área",
+
+  contactTwo: "Contato",
+  getInTouch: "Entre em Contato",
+  findMe: "Me Encontre",
+  mailMe: "Me Mande um Email",
+  emailTwo: "isabelcastrobcn[@]gmail.com",
+  callMe: "Me Ligue",
+  phoneNum: "+34 644 82 44 94",
+  
+  nameInp: "Nome",
+  messageInp: "Mensagem",
+  submitBtn: "Enviar",
+  contactForm: "Formulário de Contato",
+  errorNameOne: "Inserir um nome é obrigatório",
+  errorNameTwo: "O nome deve ter mais de duas letras",
+  errorEmailOne: "E-mail é obrigatório",
+  errorEmailTwo: "E-mail inválido",
+  errorMessageOne: "Inserir uma mensagem é obrigatório",
+  errorMessageTwo: "A mensagem inserida não é suficiente",
+  
+  toastSucc: "Mensagem enviada com sucesso 👍",
+  toastErr: "❌Erro ao enviar",
   
   contactTwo: "Contato",
+  
 };

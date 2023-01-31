@@ -43,4 +43,26 @@ export const TRANSLATIONS_EN = {
 
   toastSucc: "Message sent successfully 👍",
   toastErr: "❌Error sending",
+
+  resumeTwo: "Currículo",
+  education: "Educação",
+  educationYear: "1396 - 1399",
+  educationTitle: "Educação universitária",
+  educationText: "Universidade Livre de Teerã Sul, ramo de gestão de seguros",
+  educationYearTwo: "1393 - 1396",
+  educationTitleTwo: "Colegial",
+  educationTextTwo: "Curso experimental",
+  
+  experience: "Experiência",
+  experienceYear: "1398 - 1401",
+  experienceTitle: "Design de páginas web",
+  experienceText: "Em 98, no Centro Técnico de Teerã, me interessei pelo design de sites e decidi aprender",
+  experienceYearTwo: "1397",
+  experienceTitleTwo: "ICDL",
+  experienceTextTwo: "No verão de 97, por dois meses, comecei a aprender esta habilidade no Centro Técnico de Teerã",
+  experienceYearThree: "1401",
+  experienceTitleThree: "UI",
+  experienceTextThree: "Recentemente comecei a aprender nesta área",
+  
+  contactTwo: "Contato"
 };
