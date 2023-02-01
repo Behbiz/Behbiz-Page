@@ -89,21 +89,26 @@ const Resume = () => {
             
             <ul>
               <li>
+                <span>{t("experienceYear")}</span>
+                <strong>{t("experienceTitle")}</strong>
+                <p>{t("experienceText")}</p>
+              </li>
+              <li>
+                <span>{t("experienceYearOne")}</span>
+                <strong>{t("experienceTitleOne")}</strong>
+                <p>{t("experienceTextOne")}</p>
+              </li>
+              <li>
                 <span>{t("experienceYearTwo")}</span>
                 <strong>{t("experienceTitleTwo")}</strong>
                 <p>{t("experienceTextTwo")}</p>
               </li>
               <li>
-                <span>{t("experienceYear")}</span>
-                <strong>{t("experienceTitle")}</strong>
-                <p>{t("experienceText")}</p>
-              </li>
-
-              <li>
                 <span>{t("experienceYearThree")}</span>
                 <strong>{t("experienceTitleThree")}</strong>
                 <p>{t("experienceTextThree")}</p>
               </li>
+
             </ul>
           </section>
         </div>

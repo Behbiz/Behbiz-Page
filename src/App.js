@@ -54,16 +54,9 @@ const CommonStyles = styled.div`
   .education ul,
   .languages ul {
     border-left: ${(props) =>
-      props.language === "es" ? "none" : "1px solid #47a3da"};
-    border-right: ${(props) =>
-      props.language === "es" ? "1px solid #47a3da" : ""};
+      props.language === "" ? "none" : "1px solid #47a3da"};
+    
   }
 
-  .education ul li::after,
-  .languages ul li::after {
-    content: "";
-    display: block;
-    left: ${(props) => (props.language === "es" ? "0" : "")};
-    right: ${(props) => (props.language === "es" ? "-5px" : "")};
-  }
+
 `;
