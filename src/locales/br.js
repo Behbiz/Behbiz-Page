@@ -28,8 +28,7 @@ export const TRANSLATIONS_BR = {
 
   resumeTwo: "Currículo",
 
-  education: "Educação",
-
+  education: "Graduações e Certificados",
   educationYear: "2004 - 2009",
   educationTitle: "Bacharelado - Curso de Direito",
   educationText: "Unijorge Universidade",

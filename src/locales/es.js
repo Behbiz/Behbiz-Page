@@ -49,7 +49,7 @@ toastSucc: "Mensaje enviado con éxito 👍",
 toastErr: "❌Error al enviar",
 
 resumeTwo: "Currículo",
-education: "Educación",
+education: "Grados y Certificados",
 educationYear: "2004 - 2009",
 educationTitle: "Diploma de nivel superior - Curso de Derecho",
 educationText: "Universidad Unijorge",

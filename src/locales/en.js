@@ -52,7 +52,7 @@ export const TRANSLATIONS_EN = {
   toastErr: "❌Error sending",
 
   resumeTwo: "Resume",
-  education: "Education",
+  education: "Degrees and Certificates",
 
   educationYear: "2004 -2009 ",
   educationTitle: "Higher level diploma - Law Course",
