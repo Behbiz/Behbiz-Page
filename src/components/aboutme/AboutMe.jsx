@@ -1,8 +1,9 @@
 import { t } from "i18next";
 import { img } from "../../assets";
 import styles from "./AboutMe.module.css";
-
+import Hobbies from "../hobbies/Hobbies";
 import { motion } from "framer-motion";
+
 
 const AboutMe = () => {
   return (
@@ -16,7 +17,14 @@ const AboutMe = () => {
       <section className={`aboutme ${styles.aboutme}`}>
         <img src={img.aboutme} alt="aboutme" />
         <p>{t("aboutmeTwo")}</p>
-
+        <article className="title">
+              <h4>{t("myHobbies")}</h4>
+              <img src={img.zigzag} alt="zigzag" />
+            </article>
+               
+        <Hobbies/>
+     
+      
         <div className={styles.sl}>
           <section className={styles.skills}>
             <article className="title">

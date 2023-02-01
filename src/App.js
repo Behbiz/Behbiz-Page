@@ -36,6 +36,7 @@ const CommonStyles = styled.div`
   .nav,
   .home,
   .aboutme,
+  .hobbies,
   .resume,
   .portfolio,
   .contact,

@@ -1,0 +1,15 @@
+.hobbies{
+    color: black !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.hobbies .card-img-top {
+    max-width: 33%;
+}
+.hobbies .card {
+    width: 600px;
+    height: auto;
+  }
+
+
+

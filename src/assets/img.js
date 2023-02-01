@@ -8,6 +8,8 @@ import homeBg from "./img/home.jpg";
 import logo from "./icons/favicon.ico";
 import notfound from "./img/notfound.jpg";
 import skydive from "./img/skydive.png";
+import senderismo from "./img/senderismo.png";
+import scuba from "./img/scuba.png";
 
 // --------- js
 import js1 from "./img/js1.PNG";
@@ -42,4 +44,6 @@ export default {
   logo,
   notfound,
   skydive,
+  senderismo,
+  scuba,
 };

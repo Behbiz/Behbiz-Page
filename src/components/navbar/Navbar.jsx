@@ -6,8 +6,8 @@ import { img } from "../../assets";
 import styled from "styled-components";
 import styles from "./Navbar.module.css";
 
-import { ImCodepen, ImLinkedin2 } from "react-icons/im";
-import { BsGithub, BsTelegram, BsInstagram } from "react-icons/bs";
+import { ImLinkedin2 } from "react-icons/im";
+import { BsGithub,  BsInstagram } from "react-icons/bs";
 import { useMediaQuery } from "react-responsive";
 
 import DarkMood from "../../common/DarkMood";
