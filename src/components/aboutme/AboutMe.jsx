@@ -16,7 +16,7 @@ const AboutMe = () => {
     >
       <section className={`aboutme ${styles.aboutme}`}>
         <img src={img.aboutme} alt="aboutme" />
-        <p>{t("aboutmeTwo")}</p>
+        <p className="about-text">{t("aboutmeTwo")}</p>
         <article className="title">
               <h4>{t("myHobbies")}</h4>
               <img src={img.zigzag} alt="zigzag" />

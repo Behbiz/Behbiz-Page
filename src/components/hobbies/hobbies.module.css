@@ -1,15 +1,17 @@
 .hobbies{
-    color: black !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+    color: dark;
+   
 }
-.hobbies .card-img-top {
-    max-width: 33%;
+.card-body{
+    background: var(--bg-color);
+    color: var(--text-color);
 }
-.hobbies .card {
-    width: 600px;
-    height: auto;
-  }
 
+@media (max-width: 780px){
+   .card-body {
+    display:none !important;
+    padding:2px;
 
+   }
+}
 

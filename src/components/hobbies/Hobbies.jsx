@@ -12,14 +12,14 @@ function Hobbies() {
     <div className={`hobbies ${styles.hobbies}`}>
     <div className="d-flex flex-row mx-auto">
 
-    <div className="card m-3">
+    <div className="card text-center col-md-4 col-sm-6 mb-4 mb-md-0">
       <img src={img.skydive} alt="aboutme"  className="" />
         <div className="card-body">
           <p className="card-text">{t("hobbie1")}</p>
         </div>
       </div>
       
-      <div className="card m-3">
+      <div className="card text-center col-md-4 col-sm-6 mb-4 mb-md-0">
       <img src={img.senderismo} alt="aboutme"  className="card-img-top" />
         <div className="card-body">
           
@@ -27,7 +27,7 @@ function Hobbies() {
         </div>
       </div>
 
-      <div className="card m-3">
+      <div className="card text-center col-md-4 col-sm-6 mb-4 mb-md-0">
       <img src={img.scuba} alt="aboutme"  className="card-img-top" />
         <div className="card-body">
           <p className="card-text">{t("hobbie3")}</p>

@@ -16,13 +16,15 @@
 }
 
 .aboutme p {
-  font-size: 15px;
+  font-size: 15px!important;
   padding: 30px;
   line-height: 30px;
-
+  text-align: justify;
   width: 100%;
 }
-
+.about-text{
+  padding-top: 100px!important;
+}
 
 
 /* skills & languages */
@@ -35,8 +37,6 @@
 .languages {
   margin-bottom: 20px;
 }
-
-
 
 .skills div,
 .languages div {
@@ -68,22 +68,6 @@
   opacity: 0.19;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* @media screen and (max-width: 767px) {} */
 
 @media screen and (min-width: 768px) {
@@ -96,6 +80,12 @@
   .skills,
   .languages {
     width: 48%;
+  }
+  .aboutme p {
+    font-size: 12px;
+    padding:5px; 
+    line-height:initial;
+    
   }
 }
 

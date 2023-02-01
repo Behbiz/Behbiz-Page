@@ -52,6 +52,12 @@ body {
   color: var(--text-color);
 }
 
+.card-body{
+  background: var(--bg-color);
+  color: var(--text-color);
+  border-color: black;
+
+}
 
 
 .App {
