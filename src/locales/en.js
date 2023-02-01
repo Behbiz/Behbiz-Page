@@ -78,24 +78,24 @@ export const TRANSLATIONS_EN = {
   educationYearSeven: " 2023",
   educationTitleSeven: " Bootcamp Full-Stack",
   educationTextSeven: "Factoria F5",
-  
-
-
-
-
-
-
-  
+    
   experience: "Experiência",
-  experienceYear: " - ",
-  experienceTitle: "Design de páginas web",
-  experienceText: "Em XXXXXXXX me interessei pelo design de sites e decidi aprender",
-  experienceYearTwo: "",
-  experienceTitleTwo: "",
-  experienceTextTwo: "No verão de XXXXXX comecei a aprender esta habilidade no Centro Técnico de Teerã",
+
+  experienceYearOne: "",
+  experienceTitleOne: "",
+  experienceTextOne: "",
+
+  experienceYear: "2022",
+  experienceTitle: "Factoria F5",
+  experienceText: "Praticas do curso de Criaçao e publicaçao de pagina Web, elaborando formularios, construindo paginas de direcionamento... ",
+
+  experienceYearTwo: "2011 -2022",
+  experienceTitleTwo: "Assessor Juridico na Secretaria de Administraçao Penitenciária do Estado da Bahia - SEAP/BA",
+  experienceTextTwo: "Responsavel pela elaboraçao de estrategias, de curto e longo prazo, junto aos setores de fiscalizaçao estatal, fazendo elaboraçao de guias técnicas de boas praticas, bem como atuando diretamente na produçao de documentos oficiais e consultas administrativas, redaçao e revisao de minutas e projetos de lei relativos ao sistema penitenciário baiano",
+
   experienceYearThree: "",
   experienceTitleThree: "",
-  experienceTextThree: "Recentemente comecei a aprender nesta área",
+  experienceTextThree: "",
   
   contactTwo: "Contato"
 };

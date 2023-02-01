@@ -79,16 +79,21 @@ educationTextSeven: "Factoria F5",
 
 
 experience: "Experiencia",
-experienceYear: "XXXX - XXXX",
+experienceYear: "2022",
+experienceTitle: "Factoría F5",
+experienceText: "Practiqué en el 'Curso de creación y publicación de página web', elaborando formularios creativos, construyendo páginas de redireccionamiento específicas solicitadas por la empresa, siempre siguiendo buenas prácticas. Finalmente, propuse la modificación de las 3 páginas web existentes, con el objetivo de optimizar el posicionamiento web-SEO y proporcionar una buena experiencia de usuario.",
 
-experienceTitle: "Diseño de páginas web",
-experienceText: "En el XXX en el Instituto XXXXXXXX y decidí aprender sobre ello",
-experienceYearTwo: "XXX",
-experienceTitleTwo: "XXXX",
-experienceTextTwo: "Durante el verano del XXXXXXXXcomencé a aprender esta habilidad en el Instituto Técnico de Teherán",
-experienceYearThree: "XXX",
-experienceTitleThree: "XXX",
-experienceTextThree: "Recientemente he comenzado a aprender en este campo",
+experienceYearOne: "2011 -2022",
+experienceTitleOne: "Asesor Jurídico en la Secretaría de Administración Penitenciaria del Estado de Bahía",
+experienceTextOne: "Responsable de la elaboración de estrategias a corto y largo plazo, trabajando en conjunto con los sectores de fiscalización estatal. Mis actividades incluían la elaboración de guías técnicas de buenas prácticas, la producción directa de documentos oficiales y consultas administrativas, así como la redacción y revisión de minutas y proyectos de ley y la representación técnica del estado en audiencias jurídicas relacionadas con el sistema penitenciario de Bahía.",
+
+experienceYearTwo: "2015 - 2020",
+experienceTitleTwo: "Abogada Sénior y socia en 'CASTRO, LOPES e ISENSEE, - Abogados Asociados'",
+experienceTextTwo: "Trabajando en la reducción y eliminación de riesgos, brindando consejos especializados y personalizados sobre la legalidad de los planes de negocios y actividades operativas. Desarrollando, cuando sea necesario, estrategias de litigación después de agotadas las vías resolutivas de composición amistosa a través de mediación y gestión de crisis.",
+
+experienceYearThree: "2007 - 2012",
+experienceTitleThree: "De estagiaria a Abogado Pleno en Celso Castro - Consultoría y Abogacía",
+experienceTextThree: "Asistencia a demandas jurídicas, siguiendo el tramite de los procesos judiciales en todos los tribunales y en todas las instancias, en asuntos contenciosos. También responsable de la elaboración de procedimientos estándar, organigrama y modelos de documentos legales para garantizar el control y la calidad del trabajo desarrollado por el equipo.",
 
 contactTwo: "Contacto",
 getInTouch: "Ponte en contacto"

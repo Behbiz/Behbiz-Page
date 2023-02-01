@@ -22,6 +22,7 @@ export const TRANSLATIONS_BR = {
   spanish: "Espanhol",
 
   resumeTwo: "Currículo",
+
   education: "Educação",
 
   educationYear: "2004 - 2009",
@@ -60,15 +61,22 @@ export const TRANSLATIONS_BR = {
 
 
   experience: "Experiência",
-  experienceYear: "",
-  experienceTitle: "Design de páginas web",
-  experienceText: "Em XXXXXXXXXX me interessei pelo design de sites e decidi aprender",
-  experienceYearTwo: "",
-  experienceTitleTwo: "",
-  experienceTextTwo: "No verão XXXXXX dois meses, comecei a aprender esta habilidade ",
-  experienceYearThree: "",
-  experienceTitleThree: "",
-  experienceTextThree: "Recentemente comecei a aprender nesta área",
+
+  experienceYear: "2022",
+  experienceTitle: "Factoria F5",
+  experienceText: "Práticas do 'Curso de criação e publicação de página Web', elaborando formulários criativos, construindo páginas de redirecionamento especificas solicitadas pela empresa, sempre sob a égide de boas práticas. Elaborando, por fim, a proposta de modificação das 3 páginas webs já existentem, visando otimizar o posicionamento web-SEO, proporcionar uma boa experiência de usuário.",
+
+  experienceYearOne: "2011 -2022",
+  experienceTitleOne: "Assessor Juridico na Secretaria de Administraçao Penitenciária do Estado da Bahia",
+  experienceTextOne: "Responsável pela elaboração de estratégias, de curto e longo prazo, trabalhando em conjunto com os setores de fiscalização estatal. Minhas atividades incluíam a elaboração de guias técnicas de boas práticas, produção direta de documentos oficiais e consultas administrativas, bem como, a redação e revisão de minutas e projetos de lei, e a representação técnica do estado em audiencias juridicas relacionados ao sistema penitenciário baiano.",
+
+  experienceYearTwo: "2015 - 2020",
+  experienceTitleTwo: "Advogada Sénior e sócia em 'CASTRO, LOPES e ISENSEE, - Advogados Associados'",
+  experienceTextTwo: "Atuando na redução e eliminação de riscos, ao proporcionar conselhos especializados e personalizados sobre a legalidade dos planos de negocio e atividades operativas. Desenvolvendo, quando necessário, estratégias de litigação, após esgotadas as  vias resolutivas de composição amigável por meio de mediação e gestão de crise.",
+
+  experienceYearThree: "2007 - 2012",
+  experienceTitleThree: "De estagiária até o posto de Advogado Pleno em Celso Castro - Consultoria e Advocacia",
+  experienceTextThree: "Assistência à demandas jurídicas, acompanhando a tramitação dos processos judicializados em todos os tribunais e em todas as instâncias, em assuntos contenciosos. Responsável também, pela elaboração de procedimentos estandares, orgonograma e modelos de documentos legais para garantir o controle e a qualidade dos trabalhos desenvolvidos pela equipe.",
 
   contactTwo: "Contato",
   getInTouch: "Entre em Contato",
