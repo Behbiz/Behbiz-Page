@@ -17,6 +17,13 @@ export const TRANSLATIONS_EN = {
   aboutmeTwo:
    "I'm a highly resilient, adaptable and creative Full Stack Developer with versatile skills and critical thinking. I have a daring nature and I am always determined to seek new challenges and opportunities for growth. Last year, for example, I decided to change country, language, culture and profession. I successfully obtained a professional certification in creating and publishing web pages issued by the Spanish government. And, in addition, I completed two bootcamps at the beginning of 2023 that qualified me in several programming languages, including: JavaScript, PHP, Python and their corresponding frameworks, such as ReactJS, Bootstrap, Laravel, Typescript, Vue among others. , I'm very thirsty for knowledge and I'm always willing to learn and teach as a way to keep up to date with the new technologies on the market. In addition, I am a skydiving and diving athlete, and my great differential is my ability to react calmly, originality and effectively in unexpected situations, or in high pressure, always seeking to make assertive strategic decisions.",
   mySkills: "My Skills",
+
+  myHobbies:"My Hobbies",
+  hobbie1:"Skydive - I have been practicing skydiving since 2015, and through this sport, I have learned the importance of speed, objectivity, composure, and discernment in decision making. I have also discovered that safety is directly related to information and that I am able to handle pressure well. Furthermore, I have learned the importance of following briefs for the success of jumps, especially in group jumps.",
+  hobbie2:"Trekking - I come from a family that has always encouraged contact with nature, and since I was a child I have accompanied my father on long stretches of walks, either by the sea, in a forest, or in more arid and deserted places. With these experiences, I learned to be resilient, resistant, persistent and, above all, to be always attentive to the present moment. 'Watch where you step, step where you look'",
+  hobbie3:"Scuba diving - It fascinates me to think that more than 70% of the earth's surface is water. So, driven by curiosity, I became a diver and was able to develop some important skills such as: communicating effectively and assertively (only by means of signs), as well as having discipline and focus (getting to enjoy moments of intense and pleasurable, underwater meditation)",
+
+
   languages: "Languages",
   portugués: "Portuguese",
   english: "English",
