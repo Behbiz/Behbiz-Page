@@ -7,6 +7,7 @@ import zigzag from "./img/zigzag.svg";
 import homeBg from "./img/home.jpg";
 import logo from "./icons/favicon.ico";
 import notfound from "./img/notfound.jpg";
+import skydive from "./img/skydive.png";
 
 // --------- js
 import js1 from "./img/js1.PNG";
@@ -40,4 +41,5 @@ export default {
   zigzag,
   logo,
   notfound,
+  skydive,
 };
