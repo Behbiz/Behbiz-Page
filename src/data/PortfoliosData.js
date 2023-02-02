@@ -25,7 +25,7 @@ export const PortfoliosData = [
     title: "Games",
     description: "HTML , CSS & JS + Reponsive",
     imgUrl: img.proj3,
-    gitLink: "",
+    gitLink: "https://github.com/Behbiz/Juego-React.git",
     netlifyLink: "",
   },
   {
@@ -61,7 +61,7 @@ export const PortfoliosData = [
     title: "Front-End",
     description: "HTML , CSS & JS + React",
     imgUrl: img.proj7,
-    gitLink: "",
+    gitLink: "https://github.com/Behbiz/RankingApp.git",
     netlifyLink: "",
   },
   {
@@ -79,8 +79,8 @@ export const PortfoliosData = [
     title: "Games",
     description: "HTML , CSS & JS + Reponsive",
     imgUrl: img.proj9,
-    gitLink: "",
-    netlifyLink: "",
+    gitLink: "https://github.com/Behbiz/ControlExpenseJS.git",
+    netlifyLink: "https://aesthetic-kataifi-62c7bc.netlify.app/",
   },
   {
   id: 10,
@@ -88,8 +88,8 @@ export const PortfoliosData = [
   title: "Front-End",
   description: "HTML , CSS + Reponsive",
   imgUrl: img.proj10,
-  gitLink: "",
-  netlifyLink: "",
+  gitLink: "https://github.com/Behbiz/Portofolio.git",
+  netlifyLink: "https://creative-moonbeam-7ec484.netlify.app",
   },
   {
   id: 11,
@@ -98,7 +98,7 @@ export const PortfoliosData = [
   description: "HTML , React + Reponsive",
   imgUrl: img.proj11,
   gitLink: "",
-  netlifyLink: "",
+  netlifyLink: "https://playful-chebakia-428b49.netlify.app/index.html",
   },
   {
   id: 12,
@@ -106,8 +106,8 @@ export const PortfoliosData = [
   title: "Front-End",
   description: "HTML , CSS Reponsive",
   imgUrl: img.proj12,
-  gitLink: "",
-  netlifyLink: "",
+  gitLink: "https://unrivaled-swan-89fd96.netlify.app",
+  netlifyLink: "https://github.com/Behbiz/MaradonArts_Dev-s_Web_Tributo.git",
   },
   {
   id: 13,
@@ -116,6 +116,6 @@ export const PortfoliosData = [
   description: "HTML , CSS Reponsive",
   imgUrl: img.proj13,
   gitLink: "",
-  netlifyLink: "https://playful-chebakia-428b49.netlify.app/index.html",
+  netlifyLink: "https://stupendous-jelly-fa4ff1.netlify.app/",
   },
 ]
