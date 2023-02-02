@@ -31,7 +31,7 @@ export const PortfoliosData = [
   {
     id: 4,
     name:"Fake Store",
-    title: "Front-End",
+    title: "Full-Stack",
     description: "Vue + TypeScript + API",
     imgUrl: img.proj4,
     gitLink: "https://github.com/Behbiz/fake-store.git",
@@ -66,9 +66,9 @@ export const PortfoliosData = [
   },
   {
     id: 8,
-    name:"Events",
-    title:  "Full-Stack",
-    description: "HTML , CSS & JS + Reponsive",
+    name:"Mockup React",
+    title:  "Front-End",
+    description: "HTML , CSS & React + Reponsive",
     imgUrl: img.proj8,
     gitLink: "https://github.com/Behbiz/events-laravel.git",
     netlifyLink: "",

@@ -43,7 +43,7 @@ export default {
   proj11,
   proj12,
   proj13,
-
+ 
   avatar,
   homeBg,
   aboutme,
