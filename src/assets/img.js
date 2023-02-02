@@ -11,31 +11,38 @@ import skydive from "./img/skydive.png";
 import senderismo from "./img/senderismo.png";
 import scuba from "./img/scuba.png";
 
-// --------- js
-import js1 from "./img/js1.PNG";
-import js2 from "./img/js2.PNG";
-import js3 from "./img/js3.PNG";
-import js4 from "./img/js4.PNG";
-import js5 from "./img/js5.PNG";
-import js6 from "./img/js6.PNG";
-import js7 from "./img/js7.PNG";
-import js8 from "./img/js8.PNG";
-import js9 from "./img/js9.PNG";
-
+// --------- proj
+import proj1 from "./img/proj1.png";
+import proj2 from "./img/proj2.png";
+import proj3 from "./img/proj3.png";
+import proj4 from "./img/proj4.png";
+import proj5 from "./img/proj5.png";
+import proj6 from "./img/proj6.png";
+import proj7 from "./img/proj7.png";
+import proj8 from "./img/proj8.png";
+import proj9 from "./img/proj9.png";
+import proj10 from "./img/proj10.png";
+import proj11 from "./img/proj11.png";
+import proj12 from "./img/proj12.png";
+import proj13 from "./img/proj13.png";
 
 export default {
  
 
-  // js,
-  js1,
-  js2,
-  js3,
-  js4,
-  js5,
-  js6,
-  js7,
-  js8,
-  js9,
+  // proj,
+  proj1,
+  proj2,
+  proj3,
+  proj4,
+  proj5,
+  proj6,
+  proj7,
+  proj8,
+  proj9,
+  proj10,
+  proj11,
+  proj12,
+  proj13,
 
   avatar,
   homeBg,

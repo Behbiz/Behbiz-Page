@@ -18,7 +18,7 @@ const Contact = () => {
       transition={{ duration: 0.8 }}
       className={`contact ${styles.contact}`}
     >
-      {/* <div className={styles.contact}> */}
+      
       <h1>{t("contactTwo")}</h1>
 
       <section className={styles.contactSec}>

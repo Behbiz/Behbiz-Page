@@ -14,7 +14,7 @@ const FilterBtn = ({ setActiveFilter, activeFilter, setFilterWork, works }) => {
 
   return (
     <div className="btns">
-      {["All", "Web", "React", "Js"].map((item, index) => (
+      {["All", "Front-End", "Full-Stack", "Games"].map((item, index) => (
         <motion.div
           key={index}
           onClick={() => setActiveFilter(item)}

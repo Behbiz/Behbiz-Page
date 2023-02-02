@@ -31,7 +31,7 @@ const PortfolioItem = ({ filterWork }) => {
                     <AiFillEye />
                   </a>
                 </li>
-
+                <p>{item.name}</p>
                 <p>{item.description}</p>
               </ul>
             </div>
