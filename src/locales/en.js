@@ -88,21 +88,21 @@ export const TRANSLATIONS_EN = {
     
   experience: "Experiência",
 
-  experienceYearOne: "",
-  experienceTitleOne: "",
-  experienceTextOne: "",
-
   experienceYear: "2022",
-  experienceTitle: "Factoria F5",
-  experienceText: "Praticas do curso de Criaçao e publicaçao de pagina Web, elaborando formularios, construindo paginas de direcionamento... ",
+experienceTitle: "Factoria F5",
+experienceText: "Practices of the 'Web Page Creation and Publication Course', creating creative forms, building specific redirect pages requested by the company, always under the aegis of good practices. Finally, proposing the modification of the already existing 3 web pages, aiming to optimize web-SEO positioning and provide a good user experience.",
 
-  experienceYearTwo: "2011 -2022",
-  experienceTitleTwo: "Assessor Juridico na Secretaria de Administraçao Penitenciária do Estado da Bahia - SEAP/BA",
-  experienceTextTwo: "Responsavel pela elaboraçao de estrategias, de curto e longo prazo, junto aos setores de fiscalizaçao estatal, fazendo elaboraçao de guias técnicas de boas praticas, bem como atuando diretamente na produçao de documentos oficiais e consultas administrativas, redaçao e revisao de minutas e projetos de lei relativos ao sistema penitenciário baiano",
+experienceYearOne: "2011 -2022",
+experienceTitleOne: "Legal Advisor at the State Penitentiary Administration Secretariat of Bahia",
+experienceTextOne: "Responsible for the elaboration of short- and long-term strategies, working together with the state inspection sectors. My activities included the elaboration of technical guides for good practices, direct production of official documents and administrative consultations, as well as the drafting and revision of minutes and draft laws, and the state's technical representation in legal hearings related to the Bahian penitentiary system.",
 
-  experienceYearThree: "",
-  experienceTitleThree: "",
-  experienceTextThree: "",
-  
+experienceYearTwo: "2015 - 2020",
+experienceTitleTwo: "Senior Lawyer and Partner at 'CASTRO, LOPES and ISENSEE, - Associate Lawyers'",
+experienceTextTwo: "Acting to reduce and eliminate risks, by providing specialized and personalized advice on the legality of business plans and operational activities. Developing, when necessary, litigation strategies after exhausting the resolutive pathways of friendly composition through mediation and crisis management.",
+
+experienceYearThree: "2007 - 2012",
+experienceTitleThree: "From Intern to Senior Lawyer at Celso Castro - Consulting and Advocacy",
+experienceTextThree: "Assisting legal demands, following the proceedings of judicially processed cases in all courts and at all instances, in contentious matters. Also responsible for the elaboration of standard procedures, organizational chart and legal document models to ensure control and quality of the work developed by the team.",
+
   contactTwo: "Contato"
 };
