@@ -1,17 +1,16 @@
-.hobbies{
-    color: dark;
+p {
+    color: var(--p-color)!important;
+    text-shadow: none;
+}
+.title img {
+    margin: 10px 0;
+    width: 100%;
+  }
+@media screen and (max-width: 768px) {
+    .hobbies{
+        display: none;
+    }
    
-}
-.card-body{
-    background: var(--bg-color);
-    color: var(--text-color);
-}
-
-@media (max-width: 780px){
-   .card-body {
-    display:none !important;
-    padding:2px;
-
-   }
+    
 }
 

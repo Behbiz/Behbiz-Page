@@ -10,6 +10,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function Hobbies() {
   return (
     <div className={`hobbies ${styles.hobbies}`}>
+      
+    <article className="title">
+    <h4>{t("myHobbies")}</h4>
+    <img src={img.zigzag} alt="zigzag" />
+    </article>
+
+    
     <div className="d-flex flex-row mx-auto">
 
     <div className="card text-center col-md-4 col-sm-6 mb-4 mb-md-0">

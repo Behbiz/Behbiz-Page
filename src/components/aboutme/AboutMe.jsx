@@ -21,10 +21,7 @@ const AboutMe = () => {
             <img src={img.zigzag} alt="zigzag" />
         </article>
         <p className="about-text">{t("aboutmeTwo")}</p>
-        <article className="title">
-            <h4>{t("myHobbies")}</h4>
-            <img src={img.zigzag} alt="zigzag" />
-        </article>
+        
                
         <Hobbies/>
      

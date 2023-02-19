@@ -14,7 +14,7 @@
   --bg-color: #ecf0f1;
   --bg-color-sec: #ffffff;
   --box-shadow-sec: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-
+  --p-color: #252525;
   --box-shadow-menuTM: 0px 10px 15px -3px rgb(0 0 0 / 15%);
   --h1-color: #222222;
   --h4-color: #252525;
@@ -49,13 +49,12 @@
 body {
   width: 100%;
   background: var(--bg-color)!important;
-  color: var(--text-color);
+ 
 }
 
 .card-body{
   background: var(--bg-color);
-  color: var(--text-color);
-  border-color: black;
+  
 
 }
 
@@ -72,7 +71,6 @@ body {
   text-transform: uppercase;
   font-size: 17px;
   font-weight: 700;
-
   color: var(--h4-color);
   margin-top: 20px;
 

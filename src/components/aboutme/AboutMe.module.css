@@ -16,11 +16,12 @@
 }
 
 .aboutme p {
-  font-size: 15px!important;
+ 
   padding: 30px;
   line-height: 30px;
-  text-align: justify;
+  text-align:justify;
   width: 100%;
+  color: var(--p-color)
 }
 .about-text{
   padding-top: 100px!important;
@@ -63,12 +64,13 @@
   border-radius: 50%;
   margin: 0 5px;
 }
-
 .false {
   opacity: 0.19;
 }
 
-/* @media screen and (max-width: 767px) {} */
+@media screen and (max-width: 768px) {
+ 
+}
 
 @media screen and (min-width: 768px) {
 
