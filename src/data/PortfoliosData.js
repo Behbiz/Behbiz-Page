@@ -4,7 +4,7 @@ export const PortfoliosData = [
     name:"About Portfolios",
     title: "Front-End",
     description: "HTML , CSS & JS + Reponsive",
-    imgUrl: "/img/proj1.png",
+    imgUrl: "./img/proj1.png",
     gitLink: "https://github.com/Behbiz/Portofolio-Behbiz.git",
     netlifyLink: "",
   },
