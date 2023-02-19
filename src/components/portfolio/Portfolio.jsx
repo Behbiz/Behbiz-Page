@@ -1,17 +1,32 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import styles from "./Portfolio.module.css";
 import { t } from "i18next";
 
 import { motion } from "framer-motion";
-import { PortfoliosData } from "../../data/PortfoliosData";
 import FilterBtn from "./FilterBtn";
 
 import PortfolioItem from "./PortfolioItem";
+import axios from "axios";
 
 const Portfolio = () => {
-  const [works] = useState(PortfoliosData);
+  const [works, setWorks] = useState([]);
   const [filterWork, setFilterWork] = useState([]);
   const [activeFilter, setActiveFilter] = useState("All");
+
+  useEffect(() => {
+    axios({
+      method: "get",
+      url: `http://localhost:3000/portfolio/data`,
+      withCredentials: false,
+    })
+      .then((response) => {
+        setWorks(response.data);
+        console.log(response.data);
+      })
+      .catch((err) => {
+        console.error(err);
+      });
+  }, []);
 
   return (
     <motion.div

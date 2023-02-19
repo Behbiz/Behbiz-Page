@@ -26,14 +26,10 @@ const App = () => {
 export default App;
 
 const CommonStyles = styled.div`
-  
-
   .nav,
   .menuTM,
   .home h1,
-  .btns 
-
-  .nav,
+  .btns .nav,
   .home,
   .aboutme,
   .hobbies,
@@ -56,8 +52,5 @@ const CommonStyles = styled.div`
   .languages ul {
     border-left: ${(props) =>
       props.language === "" ? "none" : "1px solid #47a3da"};
-    
   }
-
-
 `;

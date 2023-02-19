@@ -18,9 +18,9 @@ aboutmeTwo: "Soy una Desarrolladora Full Stack altamente resiliente, adaptable y
 mySkills: "Mis habilidades",
 
 myHobbies:"Mis Hobbies",
-hobbie1:"Paracaidismo - He estado practicando paracaidismo desde 2015, y a través de este deporte, he aprendido la importancia de la velocidad, objetividad, compostura y discernimiento en la toma de decisiones. También he descubierto que la seguridad está directamente relacionada con la información y que soy capaz de manejar bien la presión. Además, he aprendido la importancia de seguir los informes para el éxito de los saltos, especialmente en los saltos en grupo.",
+hobbie1:"Paracaidismo - He estado practicando paracaidismo desde 2015, y a través de este deporte, he aprendido la importancia de la velocidad, objetividad, compostura y discernimiento en la toma de decisiones. También he descubierto que la seguridad está directamente relacionada con la información y que soy capaz de manejar bien la presión. Además, he aprendido la importancia de seguir los briefs para el éxito de los saltos, especialmente en los saltos en grupo.",
 hobbie2:"Senderismo - Vengo de una familia que siempre ha fomentado el contacto con la naturaleza, y desde niña he acompañado a mi padre en largos caminos, ya sea por la costa maritima, en un bosque o en lugares más áridos y desiertos. Con estas experiencias, aprendí a ser resiliente, resistente, persistente y, sobre todo, estar siempre atento al momento presente. 'Mira dónde pisas, pisa solamente donde miras.'",
-hobbie3:"Buceo - Me fascina pensar que más del 70% de la superficie de la tierra es agua. Por lo tanto, impulsado por la curiosidad, me convertí en buzo y pude desarrollar algunas habilidades importantes como: comunicarme de manera efectiva y asertiva (solo por medio de señales), así como tener disciplina y enfoque (llegar a disfrutar momentos de intensa meditación submarina placentera).",
+hobbie3:"Buceo - Me fascina pensar que más del 70% de la superficie de la tierra es agua. Por lo tanto, impulsado por la curiosidad, me convertí en buzo y pude desarrollar algunas habilidades importantes como: comunicarme de manera efectiva y asertiva (solo por medio de señales), así como tener disciplina, enfoque y disfrutar momentos de intensa meditación submarina (muy placentera).",
 languages: "Idiomas",
 portugués: "Portugués",
 english: "Inglés",
@@ -72,7 +72,7 @@ educationTextFour: "CONSINTER - Revista Científica Internacional de Derecho",
 
 educationYearFive: "2022",
 educationTitleFive: "Certificado de Profesionalidad en Creación y Publicación de Páginas Web",
-educationTextFive: "El Rincón - Centro de Estudios",
+educationTextFive: "The Corner - Centro de Estudios",
 
 educationYearSix: " 2023 ",
 educationTitleSix: " Bootcamp Front-End",
