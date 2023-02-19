@@ -27,8 +27,6 @@ import proj12 from "./img/proj12.png";
 import proj13 from "./img/proj13.png";
 
 export default {
- 
-
   // proj,
   proj1,
   proj2,

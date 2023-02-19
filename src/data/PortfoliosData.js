@@ -1,5 +1,3 @@
-import { img } from "../assets";
-
 export const PortfoliosData = [
   {
     id: 1,
