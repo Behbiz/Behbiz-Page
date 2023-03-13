@@ -32,18 +32,6 @@ const AboutMe = () => {
               <h4>{t("mySkills")}</h4>
               <img src={img.zigzag} alt="zigzag" />
             </article>
-
-            <div>
-              <span>Git</span>
-              <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li className={styles.false}></li>
-              </ul>
-            </div>
-
             <div>
               <span>HTML</span>
               <ul>
@@ -64,7 +52,7 @@ const AboutMe = () => {
                 <li></li>
                 <li></li>
               </ul>
-            </div>
+            </div>    
 
             <div>
               <span>Responsive</span>
@@ -96,7 +84,7 @@ const AboutMe = () => {
                 <li></li>
                 <li></li>
                 <li></li>
-                <li className={styles.false}></li>
+                <li></li>
               </ul>
             </div>
 
@@ -107,7 +95,7 @@ const AboutMe = () => {
                 <li></li>
                 <li></li>
                 <li></li>
-                <li className={styles.false}></li>
+                <li></li>
               </ul>
             </div>
 
@@ -116,7 +104,94 @@ const AboutMe = () => {
               <ul>
                 <li></li>
                 <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul>
+            </div>
+
+            <div>
+              <span>Git</span>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
                 <li className={styles.false}></li>
+              </ul>
+            </div>    
+
+            <div>
+              <span>JavaScript</span>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li className={styles.false}></li>
+              </ul>
+            </div>
+
+            <div>
+              <span>React</span>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li className={styles.false}></li>
+              </ul>
+            </div>
+
+            <div>
+              <span>Material UI</span>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li className={styles.false}></li>
+              </ul>
+            </div>
+            <div>
+              <span>Vue</span>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li className={styles.false}></li>
+              </ul>
+            </div>
+
+            <div>
+              <span>TypeScript</span>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li className={styles.false}></li>
+                <li className={styles.false}></li>
+              </ul>
+            </div>
+
+            <div>
+              <span>PHP</span>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li className={styles.false}></li>
+                <li className={styles.false}></li>
+              </ul>
+            </div>
+            
+            <div>
+              <span>Laravel</span>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
                 <li className={styles.false}></li>
                 <li className={styles.false}></li>
               </ul>
@@ -134,78 +209,11 @@ const AboutMe = () => {
             </div>
 
             <div>
-              <span>JavaScript</span>
-              <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li className={styles.false}></li>
-                <li className={styles.false}></li>
-              </ul>
-            </div>
-
-            <div>
-              <span>React</span>
-              <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li className={styles.false}></li>
-                <li className={styles.false}></li>
-              </ul>
-            </div>
-
-            <div>
               <span>Node.Js</span>
               <ul>
                 <li></li>
                 <li></li>
-                <li className={styles.false}></li>
-                <li className={styles.false}></li>
-                <li className={styles.false}></li>
-              </ul>
-            </div>
-
-
-            <div>
-              <span>Vue</span>
-              <ul>
                 <li></li>
-                <li></li>
-                <li></li>
-                <li className={styles.false}></li>
-                <li className={styles.false}></li>
-              </ul>
-            </div>
-
-            <div>
-              <span>TypeScript</span>
-              <ul>
-                <li></li>
-                <li></li>
-                <li className={styles.false}></li>
-                <li className={styles.false}></li>
-                <li className={styles.false}></li>
-              </ul>
-            </div>
-           
-            <div>
-              <span>PHP</span>
-              <ul>
-                <li></li>
-                <li></li>
-                <li className={styles.false}></li>
-                <li className={styles.false}></li>
-                <li className={styles.false}></li>
-              </ul>
-            </div>
-            
-            <div>
-              <span>Laravel</span>
-              <ul>
-                <li></li>
-                <li></li>
-                <li className={styles.false}></li>
                 <li className={styles.false}></li>
                 <li className={styles.false}></li>
               </ul>
@@ -216,7 +224,17 @@ const AboutMe = () => {
               <ul>
                 <li></li>
                 <li></li>
+                <li></li>
                 <li className={styles.false}></li>
+                <li className={styles.false}></li>
+              </ul>
+            </div>
+            <div>
+              <span>MongoDB</span>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
                 <li className={styles.false}></li>
                 <li className={styles.false}></li>
               </ul>
