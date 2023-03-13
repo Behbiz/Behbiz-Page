@@ -1,6 +1,6 @@
-# My portfolio (with React and Laravel) 
+# My portfolio (with React)
 
-Bootcamp Factoria student project, with the proposal to build a "Portfolio" with React and Laravel resources, using a specific API personal.
+Bootcamp Factoria student project, with the proposal to build a "Portfolio" with React, using a specific API personal.
 
 ## Project setup
 ```
