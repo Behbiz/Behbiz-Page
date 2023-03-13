@@ -248,9 +248,9 @@ const Navbar = ({ handleOnclick, location }) => {
 export default Navbar;
 
 const Show = styled.div`
-  @media (max-width: 768px) {
+  @media (max-width: 992px) {
     nav {
-      right: ${(props) => (props.open ? "0" : "-305px")};
+      right: ${(props) => (props.open ? "0" : "-325px")};
     }
   }
 `;

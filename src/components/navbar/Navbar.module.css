@@ -46,7 +46,7 @@
 
     flex-direction: column;
     position: fixed;
-    width: 250px;
+    width: 320px;
 
     top: 62px;
     right: -305px;
@@ -54,7 +54,7 @@
 
     text-align: center;
     padding: 20px 10px;
-    /*height: calc(100vh - 62px);*/
+    height: calc(100vh - 20px);
 
     overflow: auto;
     transition: all 0.5s ease-in-out 0s;
@@ -65,12 +65,11 @@
 
 
 .profile {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     border: 2px solid #c0c0c0;
-
     border-radius: 50%;
-    margin-top: 120px;
+    
 }
 
 .profile img {
@@ -84,7 +83,7 @@
     font-weight: 700;
     margin-bottom: 5px;
 
-    font-size: 20px;
+    font-size: 23px;
 }
 
 
@@ -222,7 +221,7 @@
     width: 50%;
 
     height: 100%;
-    /* animation: animRight 1s ease 0s 1 normal forwards; */
+    animation: animRight 1s ease 0s 1 normal forwards;
     /* transition: 1s !important; */
 }
 
@@ -259,19 +258,10 @@
     }
 }
 
-
-
-
-
-
-
-
 /* @media screen and (max-width:767px){} */
 /* @media screen and (min-width:768px){} */
 
 @media screen and (min-width:993px) {
-
-
 
     .menuTM {
         display: none;
@@ -289,12 +279,10 @@
 
     .cssLeft {
         width: 25%;
-        /* animation: animLeft 1s ease 0s 1 normal forwards; */
+        animation: animLeft 1s ease 0s 1 normal forwards; 
     }
 
-    .cssRight {
-        /* animation: animRight 1s ease 0s 1 normal forwards; */
-    }
+    
 }
 
 @media screen and (min-width:1201px) {
