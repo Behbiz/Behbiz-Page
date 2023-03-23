@@ -75,7 +75,7 @@ educationTitleFive: "Certificado de Profesionalidad en Creación y Publicación 
 educationTextFive: "El Rincón - Centro de Estudios",
 
 educationYearSix: " 2023 ",
-educationTitleSix: " Bootcamp Front-End",
+educationTitleSix: " Bootcamp Full-Stack",
 educationTextSix: "KeepCoding - Programming school",
 
 educationYearSeven: " 2023",

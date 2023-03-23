@@ -79,7 +79,7 @@ export const TRANSLATIONS_EN = {
   educationTextFive: "The Corner - Study Center",
 
   educationYearSix: " 2023 ",
-  educationTitleSix: " Bootcamp Front-End",
+  educationTitleSix: " Bootcamp Full-Stack",
   educationTextSix: "KeepCoding - Programming school",
 
   educationYearSeven: " 2023",
