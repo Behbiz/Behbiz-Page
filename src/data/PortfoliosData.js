@@ -24,7 +24,7 @@ export const PortfoliosData = [
     description: "HTML , CSS & JS + Reponsive",
     imgUrl: "https://raw.githubusercontent.com/Behbiz/PortfolioReact/master/src/assets/img/Proj3.png",
     gitLink: "https://github.com/Behbiz/Juego-React.git",
-    netlifyLink: "",
+    netlifyLink: "https://clinquant-marzipan-b872d8.netlify.app",
   },
   {
     id: 4,
@@ -104,8 +104,8 @@ export const PortfoliosData = [
   title: "Front-End",
   description: "HTML , CSS Reponsive",
   imgUrl: "https://raw.githubusercontent.com/Behbiz/PortfolioReact/master/src/assets/img/proj12.png",
-  gitLink: "https://unrivaled-swan-89fd96.netlify.app",
-  netlifyLink: "https://github.com/Behbiz/MaradonArts_Dev-s_Web_Tributo.git",
+  gitLink: "https://github.com/Behbiz/MaradonArts_Dev-s_Web_Tributo.git",
+  netlifyLink: "https://unrivaled-swan-89fd96.netlify.app",
   },
   {
   id: 13,
