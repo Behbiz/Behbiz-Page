@@ -6,7 +6,7 @@ export const PortfoliosData = [
     description: "HTML , CSS & JS + Reponsive",
     imgUrl: "https://raw.githubusercontent.com/Behbiz/PortfolioReact/master/src/assets/img/Proj1.png",
     gitLink: "https://github.com/Behbiz/Portofolio-Behbiz.git",
-    netlifyLink: "",
+    netlifyLink: "https://github.com/Behbiz/Portofolio-Behbiz.git",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const PortfoliosData = [
     description: "Vue + TypeScript + Mongodb",
     imgUrl: "https://raw.githubusercontent.com/Behbiz/PortfolioReact/master/src/assets/img/Proj2.png",
     gitLink: "",
-    netlifyLink: "",
+    netlifyLink: "https://magical-empanada-e79944.netlify.app",
   },
   {
     id: 3,
