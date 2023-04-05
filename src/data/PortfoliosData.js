@@ -109,11 +109,20 @@ export const PortfoliosData = [
   },
   {
   id: 13,
-  name:"First Mockup",
+  name:"First Wix",
   title: "Front-End",
   description: "HTML , CSS Reponsive",
   imgUrl: "https://raw.githubusercontent.com/Behbiz/PortfolioReact/master/src/assets/img/proj13.png",
   gitLink: "",
   netlifyLink: "https://stupendous-jelly-fa4ff1.netlify.app/",
   },
+  {
+    id: 14,
+    name:"First Mockup",
+    title: "Front-End",
+    description: "HTML , CSS Reponsive",
+    imgUrl: "https://raw.githubusercontent.com/Behbiz/PortfolioReact/master/src/assets/img/proj13.png",
+    gitLink: "",
+    netlifyLink: "https://stupendous-jelly-fa4ff1.netlify.app/",
+    },
 ]

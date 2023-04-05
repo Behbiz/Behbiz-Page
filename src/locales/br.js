@@ -54,7 +54,7 @@ export const TRANSLATIONS_BR = {
   educationTextFive: "The Corner - Centro de Estudos",
 
   educationYearSix: " 2023 ",
-  educationTitleSix: " Bootcamp Full-Stack,
+  educationTitleSix: " Bootcamp Full-Stack",
   educationTextSix: "KeepCoding - Programming school",
 
   educationYearSeven: " 2023",
